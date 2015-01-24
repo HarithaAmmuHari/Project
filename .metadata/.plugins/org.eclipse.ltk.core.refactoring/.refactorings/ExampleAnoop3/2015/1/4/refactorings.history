@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change Layout" description="Change Layout" file="/ExampleAnoop3/res/layout/activity_main.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/ExampleAnoop3" sel-end="534" sel-start="0" stamp="1422092360559" type="android.widget.LinearLayout"/>
+</session>
